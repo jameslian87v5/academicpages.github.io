@@ -1,6 +1,6 @@
 
 
-# Professional Profile
+# Lian Xiaoxing Profile
 This is Lian Xiaoxing personal professional profile.
 ## Education
 
