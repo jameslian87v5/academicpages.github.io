@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is my personal professional profile, I am interested in AI and other funny things in this world! 
+This is my professional profile, I am interested in AI and other funny things in this world! 
 
 # Education
 
