@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "Lian Xiaoxing Profile"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 
 # Lian Xiaoxing Profile
