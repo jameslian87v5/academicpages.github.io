@@ -1,14 +1,7 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 # Professional Profile
-This is my personal professional profile.
+This is Lian Xiaoxing personal professional profile.
 ## Education
 
 | Period | Institution | Degree / Major | Notes |
